@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'LarryLuo' => 'Larryluo@zego.im' }
-  s.source           = { :git => 'https://github.com/zegoim/ZegoToken_iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/LarryLuo1/ZegoToken_iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
